@@ -1,4 +1,4 @@
-from random import random
+from random import random # задание на 'N' случайных чисел и подсчёт принадлежности диапазонам
 
 n = 10
 a1 = 0
