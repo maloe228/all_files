@@ -4,6 +4,7 @@ i = 0
 d = [randint(1, 100) for n in range(N)]
 print(d)
 
+#a.sort()
 # print(sorted(d)) сортировка выбором
 
 while i < N - 1:
