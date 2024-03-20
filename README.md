@@ -31,3 +31,5 @@
 16 - НОД
 
 17 - Фибоначи
+
+https://python-school.ru/blog/python/io-files/?ysclid=ltzfjfm5z6978839932 (файлы)
