@@ -33,3 +33,5 @@
 17 - Фибоначи
 
 https://python-school.ru/blog/python/io-files/?ysclid=ltzfjfm5z6978839932 (файлы)
+
+https://1drv.ms/w/c/960dfbd586587e1a/ERp-WIbV-w0ggJaWAQAAAAABQSlSY3LDooGNiNzcTNC8ag?e=TBMOVc
